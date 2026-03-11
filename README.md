@@ -7,8 +7,7 @@ A data analytics project leveraging SQL to interrogate the Olist Brazilian E-com
 3. [Data Cleaning](#data-cleaning)
 4. [Analysis Structure](#analysis-structure)
 5. [Key Insights](#key-insights)
-6. [Tech Stack](#tech-stack)
-7. [Repository Structure](#repository-structure)
+6. [Repository Structure](#repository-structure)
 
 ## Project Overview
 This project applies structured SQL analysis to the Olist Brazilian E-commerce public dataset to answer real-
@@ -80,16 +79,12 @@ Key transformations made on raw data:
 
 ## Key Insights
 
-## Tech Stack
 
 ## Repository Structure
 ```
 olist_data_analysis_using_sql/
 │
 ├── README.md
-│
-├── data/
-│   └── (download from Kaggle — link above)
 │
 ├── queries/
 │   ├── level1_business_health/
