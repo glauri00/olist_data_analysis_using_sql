@@ -83,3 +83,32 @@ Key transformations made on raw data:
 ## Tech Stack
 
 ## Repository Structure
+```
+olist_data_analysis_using_sql/
+│
+├── README.md
+│
+├── data/
+│   └── (download from Kaggle — link above)
+│
+├── queries/
+│   ├── level1_business_health/
+│   │   ├── monthly_revenue.sql
+│   │   ├── top_categories_by_state.sql
+│   │   └── payment_methods.sql
+│   │
+│   ├── level2_logistics/
+│   │   ├── delivery_reliability.sql
+│   │   ├── review_vs_delay.sql
+│   │   └── underperforming_sellers.sql
+│   │
+│   ├── level3_advanced_analytics/
+│   │   ├── retention_rate.sql
+│   │   ├── clv_ranking.sql
+│   │   ├── cohort_analysis.sql
+│   │   └── moving_average_revenue.sql
+│   │
+│   └── level4_customer_intelligence/
+│       ├── rfm_segmentation.sql
+│       └── seller_incident_report.sql
+```
