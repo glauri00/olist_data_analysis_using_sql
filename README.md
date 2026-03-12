@@ -85,25 +85,15 @@ Key transformations made on raw data:
 olist_data_analysis_using_sql/
 │
 ├── README.md
-│
-├── queries/
-│   ├── business_health/
-│   │   ├── monthly_revenue.sql
-│   │   ├── top_categories_by_state.sql
-│   │   └── payment_methods.sql
-│   │
-│   ├── logistics/
-│   │   ├── delivery_reliability.sql
-│   │   ├── review_vs_delay.sql
-│   │   └── underperforming_sellers.sql
-│   │
-│   ├── advanced_analytics/
-│   │   ├── retention_rate.sql
-│   │   ├── clv_ranking.sql
-│   │   ├── cohort_analysis.sql
-│   │   └── moving_average_revenue.sql
-│   │
-│   └── customer_intelligence/
-│       ├── rfm_segmentation.sql
-│       └── seller_incident_report.sql
+├── top_categories_by_state.sql
+├── payment_methods.sql
+├── delivery_reliability.sql
+├── review_vs_delay.sql
+├── underperforming_sellers.sql
+├──  retention_rate.sql
+├── clv_ranking.sql
+├── cohort_analysis.sql
+├── moving_average_revenue.sql
+├── rfm_segmentation.sql
+├── seller_incident_report.sql
 ```
