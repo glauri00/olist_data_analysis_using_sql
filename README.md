@@ -77,7 +77,7 @@ Key transformations made on raw data:
 
 - **Seller Logistics Incident Report**: Identifies sellers whose average shipping time exceeds their state's average by more than 20%, surfacing potential review score impact from logistics outliers.
 
-## 💡 Key Insights
+## Key Insights
 
 - 💳 **Credit cards dominate** payment methods with **75.4% of transactions** and an average ticket of **$163**. Debit cards account for just 1.5% of the total.
 - 📦 **The state of Amapá (AP) has delivery delays double** those of the second worst-performing state in the country.
