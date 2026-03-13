@@ -77,8 +77,13 @@ Key transformations made on raw data:
 
 - **Seller Logistics Incident Report**: Identifies sellers whose average shipping time exceeds their state's average by more than 20%, surfacing potential review score impact from logistics outliers.
 
-## Key Insights
+## 💡 Key Insights
 
+- 💳 **Credit cards dominate** payment methods with **75.4% of transactions** and an average ticket of **$163** — debit cards account for just 1.5% of the total.
+- 📦 **The state of Amapá (AP) has delivery delays double** those of the second worst-performing state in the country.
+- ⭐ **Orders delivered on time score 50% higher** on average than late ones — logistics is not just an ops problem, it's a customer experience problem.
+- 🔁 **Retention rate: 0%** — every customer in the dataset bought once and never came back. That's not a data issue, that's a business signal.
+- ⚠️ **128 sellers** take at least 1.2x longer to ship than their state average — one of them averages **29 days against a state average of 4**.
 
 ## Repository Structure
 ```
